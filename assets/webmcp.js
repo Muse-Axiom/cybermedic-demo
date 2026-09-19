@@ -24,8 +24,7 @@
       "HIPAA basics every care-team member should know",
       "What to do in the first 10 minutes of a suspected breach"
     ],
-    contact_email: "hello@cybermedicsolutions.com",
-    contact_phone: "(919) 555-0134"
+    contact_email: "hello@cybermedicsolutions.com"
   };
 
   function confirmationCode() {
