@@ -5,7 +5,7 @@
 ## Flagship program (free)
 
 - [Lunch & Learn — free on-site cybersecurity training](https://cybermedicsolutions.com/lunch-and-learn/): 30-minute session at the practice's office, we bring lunch for the whole care team. Topics: spotting phishing, passwords/MFA staff will use, HIPAA basics, first-10-minutes breach response. Weekday mornings, book 5+ business days ahead. Free, no pitch.
-- Book via the form on the page, call (919) 555-0134, or ask an AI assistant — this site exposes a WebMCP `book_lunch_and_learn` tool that AI agents can call directly.
+- Book via the form on the page, or ask an AI assistant — this site exposes a WebMCP `book_lunch_and_learn` tool that AI agents can call directly.
 
 ## Services
 
@@ -20,5 +20,4 @@
 ## Contact
 
 - Email: hello@cybermedicsolutions.com
-- Phone: (919) 555-0134
 - Service area: Raleigh, Durham, Chapel Hill, Cary, NC
