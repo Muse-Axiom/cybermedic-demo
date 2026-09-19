@@ -1,0 +1,24 @@
+User-agent: *
+Allow: /
+
+# AI crawlers and assistants are welcome. This site publishes llms.txt
+# and WebMCP agent tools to help AI assistants serve visitors.
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://cybermedicsolutions.com/sitemap.xml
